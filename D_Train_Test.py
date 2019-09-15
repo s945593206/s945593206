@@ -21,7 +21,7 @@ trainingOrTesting = "Test"
 epoch = 6
 saveParamPath = ""
 ####### Test config
-testModeWeight = ".\\Bi_LSTM_Attention\\Bi_LSTM_Attention_0.7406181"
+testModeWeight = "./Bi_LSTM_Attention/Bi_LSTM_Attention_0.7406181"
 
 
 print("Loading weight matrix.")
